@@ -1,1 +1,1 @@
-var data = new Data();
+var data = new Data();  
