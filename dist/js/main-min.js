@@ -1,1 +1,1 @@
-var Map=new Map,set=new Set;
+var Map=new Map,data=new Data,set=new Set;
